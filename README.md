@@ -21,5 +21,4 @@ How to download the file using the command line.
 ```
 Tristan@HONEYCOMB MINGW64 ~/Desktop
 $ curl -s https://raw.githubusercontent.com/tjmahr/dictfix/master/DictFix.txt > DictFix.txt
-
 ```
