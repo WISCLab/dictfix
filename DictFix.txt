@@ -131,6 +131,7 @@ showing	sh-oU-I-ng
 sigh	s-@I
 sleeping	s-l-i-p-I-ng
 stroll	s-t-r-oU-l
+sunny	s-^-n-i
 syracuse	s-I-r-4-k-j-u-z
 t	t-i
 takers	t-eI-k-4^-z
@@ -150,6 +151,7 @@ together	t-4-g-E-dh-4^
 tot	t-@-t
 tots	t-@-t-s
 unheard	4-n-h-3^-d
+vague	v-eI-g
 veggie	v-E-dzh-i
 veiny	v-eI-n-i
 vomit	v-@-m-I-t
