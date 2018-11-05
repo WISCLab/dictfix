@@ -3,10 +3,12 @@ anger	ae-ng-g-4^
 assign	4-s-@I-n
 attract	4-t-r-ae-k-t
 attracts	4-t-r-ae-k-t-s
+audrey	c-d-r-i
 bagger	b-ae-g-4^
 balk	b-@-l-k
 bane	b-eI-n
 barely	b-E-r-l-i
+barry	b-E-r-i
 bate	b-eI-t
 bays	b-eI-z
 beady	b-i-d-i
@@ -64,6 +66,7 @@ deed	d-i-d
 deet	d-i-t
 depth	d-E-p-th
 dimple	d-I-m-p-l
+dont	d-oU-n-t
 dove	d-^-v
 drained	d-r-eI-n-d
 drifting	d-r-I-f-t-I-ng
@@ -80,6 +83,7 @@ fing	f-I-ng
 flaw	f-l-c
 flock	f-l-@-k
 foe	f-o
+gabriel	g-eI-b-r-i-l
 garbage	g-@-r-b-I-dzh
 garment	g-@-r-m-E-n-t
 gaze	g-eI-z
@@ -104,14 +108,18 @@ impress	I-m-p-r-E-s
 impression	I-m-p-r-E-sh-4-n
 inner	I-n-4^
 inward	I-n-w-4^-d
+kenny	k-E-n-i
 lack	l-ae-k
 longing	l-c-ng-I-ng
+marley	m-@-r-l-i
+mary	m-E-r-i
 maximum	m-ae-k-s-I-m-^-m
 mock	m-@-k
 mourn	m-c-r-n
 mower	m-oU-4^
 mowers	m-oU-4^-z
 mug	m-^-g
+natalie	n-ae-t-4-l-i
 nook	n-U-k
 pause	p-c-z
 pieces	p-i-s-I-z
@@ -120,7 +128,10 @@ poet	p-oU-I-t
 poise	p-cI-z
 poll	p-oU-l
 poot	p-u-t
+potato	p-4-t-eI-t-oU
+
 que	k-eI
+r	@-r
 rot	r-@-t
 saggy	s-ae-g-i
 scared	s-k-E-4^-d
