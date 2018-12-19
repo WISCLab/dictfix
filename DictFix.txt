@@ -148,6 +148,7 @@ que	k-eI
 r	@-r
 rot	r-@-t
 saggy	s-ae-g-i
+sappy	s-ae-p-i
 sacred	s-eI-k-r-I-d
 scared	s-k-E-4^-d
 shakey	sh-eI-k-i
