@@ -140,6 +140,7 @@ pita	p-i-t-4
 plague	p-l-ae-g
 poet	p-oU-I-t
 poise	p-cI-z
+polite	p-4-l-@I-t
 poll	p-oU-l
 poot	p-u-t
 potato	p-4-t-eI-t-oU
@@ -147,6 +148,7 @@ que	k-eI
 r	@-r
 rot	r-@-t
 saggy	s-ae-g-i
+sacred	s-eI-k-r-I-d
 scared	s-k-E-4^-d
 shakey	sh-eI-k-i
 shaky	sh-eI-k-i
