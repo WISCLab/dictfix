@@ -1,3 +1,5 @@
+abort 	4-b-c-r-t 
+abrupt	4-b-r-^-p-t
 aminal	ae-m-I-n-4-l
 and	ae-n-d
 anger	ae-ng-g-4^
@@ -29,6 +31,7 @@ bounded	b-@U-n-d-I-d
 bowel	b-@U-l
 brag	b-r-ae-g
 brow	b-r-@U
+buddy	b-^-d-i 
 buhbye	b-4-b-@I
 bunt	b-^-n-t
 burly	b-4^-l-i
@@ -78,6 +81,7 @@ dont	d-oU-n-t
 dove	d-^-v
 drained	d-r-eI-n-d
 drifting	d-r-I-f-t-I-ng
+drinked	d-r-I-ng-k-t
 drips	d-r-I-p-s
 dwight	d-w-@I-t
 edible	E-d-I-b-l 
@@ -91,6 +95,7 @@ fing	f-I-ng
 flaw	f-l-c
 flock	f-l-@-k
 foe	f-o
+funny	f-^-n-i
 gabriel	g-eI-b-r-i-l
 garbage	g-@-r-b-I-dzh
 garment	g-@-r-m-E-n-t
@@ -114,6 +119,7 @@ hue	h-j-u
 hullahoop	h-u-l-4-h-u-p
 hunger	h-^-ng-g-4^
 hymn	h-I-m
+i'll	@I-l
 impress	I-m-p-r-E-s
 impression	I-m-p-r-E-sh-4-n
 injures	I-n-dzh-4^-z
@@ -128,6 +134,7 @@ marley	m-@-r-l-i
 mary	m-E-r-i
 maximum	m-ae-k-s-I-m-^-m
 mock	m-@-k
+more	m-c-r
 mourn	m-c-r-n
 mower	m-oU-4^
 mowers	m-oU-4^-z
@@ -144,6 +151,7 @@ polite	p-4-l-@I-t
 poll	p-oU-l
 poot	p-u-t
 potato	p-4-t-eI-t-oU
+pour	p-c-r
 que	k-eI
 r	@-r
 rot	r-@-t
@@ -171,6 +179,7 @@ tees	t-i-z
 telly	t-E-l-i
 temp	t-E-m-p
 thaw	dh-c
+thems	dh-E-m-z
 they'll	dh-eI-l
 thief	th-i-f
 tidal	t-@I-d-l
@@ -183,6 +192,7 @@ uke	j-u-k
 unheard	4-n-h-3^-d
 vague	v-eI-g
 veggie	v-E-dzh-i
+very	v-E-r-i
 vein	v-eI-n
 veiny	v-eI-n-i
 vomit	v-@-m-I-t
