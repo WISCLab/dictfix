@@ -8,11 +8,16 @@ aminal	ae-m-I-n-4-l
 and	ae-n-d
 anger	ae-ng-g-4^
 any	E-n-i
+anymore	E-n-i-m-c-r
+anything	E-n-i-th-I-ng
 anyway	E-n-i-w-eI
 assign	4-s-@I-n
 attract	4-t-r-ae-k-t
 attracts	4-t-r-ae-k-t-s
 audrey	c-d-r-i
+babysat	b-eI-b-i-s-ae-t
+babysit	b-eI-b-i-s-I-t
+babysitter	b-eI-b-i-s-I-t-4^
 bagger	b-ae-g-4^
 baggie	b-ae-g-i
 bailey	b-eI-l-i
@@ -107,6 +112,7 @@ coy	k-cI
 coyboy	k-cI-b-cI
 coyote	k-@I-oU-t-i
 crackers	k-r-ae-k-4^-z
+crayon	k-r-ae-n
 croissant	k-r-4-s-@-n-t
 cue	k-j-u
 cued	k-j-u-d
@@ -123,6 +129,7 @@ darter	d-@-r-t-4^
 deed	d-i-d
 deet	d-i-t
 definitely	d-E-f-I-n-I-t-l-i
+deny	d-4-n-@I
 depart	d-I-p-@-r-t
 depth	d-E-p-th
 dewy	d-u-i
@@ -140,9 +147,13 @@ ducky	d-^-k-i
 dwight	d-w-@I-t
 early	3^-l-i
 easy	i-z-i
+ebay	i-b-eI
 edgeless	E-dzh-l-E-s
 edible	E-d-I-b-l
 ellie	E-l-i
+every	E-v-r-i
+everyone	E-v-r-i-w-^-n
+everywhere	E-v-r-i-w-E-r
 ew	i-u
 exactly	I-g-z-ae-k-l-i
 faces	f-eI-s-I-z
@@ -188,6 +199,7 @@ happy	h-ae-p-i
 hardly	h-@-r-d-l-i
 heady	h-E-d-i
 heard	h-3^-d
+hideaway	h-@I-d-4-w-eI
 hobby	h-@-b-i
 hockey	h-@-k-i
 hoe	h-o
@@ -208,6 +220,7 @@ hunger	h-^-ng-g-4^
 hurry	h-3^-i
 husky	h-^-s-k-i
 hymn	h-I-m
+hype	h-@I-p
 i'll	@I-l
 impress	I-m-p-r-E-s
 impression	I-m-p-r-E-sh-4-n
@@ -218,6 +231,7 @@ jelly	dzh-E-l-i
 jewelry	dzh-u-l-r-i
 johnny	dzh-@-n-i
 katie	k-eI-t-i
+kayak	k-@I-ae-k
 kenny	k-E-n-i
 lack	l-ae-k
 laughter	l-ae-f-t-4^
@@ -244,6 +258,7 @@ mock	m-@-k
 molly	m-@-l-i
 money	m-^-n-i
 monkey	m-^-ng-k-i
+monkeys	m-^-ng-k-i-z
 more	m-c-r
 mourn	m-c-r-n
 movie	m-u-v-i
@@ -257,6 +272,8 @@ naughty	n-c-t-i
 ninety	n-@I-n-t-i
 nook	n-U-k
 only	oU-n-l-i
+owwie	@U-w-i
+oyster	cI-s-t-4^
 paddy	p-ae-d-i
 pantie	p-ae-n-t-i
 party	p-@-r-t-i
@@ -264,6 +281,7 @@ pause	p-c-z
 peely	p-i-l-i
 peices	p-i-s-I-z
 penny	p-E-n-i
+peony	p-i-4-n-i
 picky	p-I-k-i
 pieces	p-i-s-I-z
 pinkie	p-I-ng-k-i
@@ -271,19 +289,23 @@ pinny	p-I-n-i
 pita	p-i-t-4
 pity	p-I-t-i
 plague	p-l-ae-g
+playing	p-l-eI-I-n-g
 plenty	p-l-E-n-t-i
+ploy	p-l-cI
 poet	p-oU-I-t
 pointy	p-cI-n-t-i
 poise	p-cI-z
 polite	p-4-l-@I-t
 poll	p-oU-l
 pony	p-oU-n-i
+pony's	p-oU-n-i-z
 poot	p-u-t
 potato	p-4-t-eI-t-oU
 pottie	p-@-t-i
 pour	p-c-r
 pretty	p-r-I-t-i
 puddy	p-^-d-i
+pudgy	p-^-dzh-i
 pushup	p-U-sh-^-p
 putty	p-^-t-i
 que	k-eI
@@ -315,6 +337,7 @@ sigh	s-@I
 silly	s-I-l-i
 sleeping	s-l-i-p-I-ng
 slew	s-l-u
+staying	s-t-eI-I-n-g
 steamy	s-t-i-m-i
 sticky	s-t-I-k-i
 story	s-t-c-r-i
@@ -362,6 +385,7 @@ tot	t-@-t
 tots	t-@-t-s
 toughie	t-^-f-i
 tricky	t-r-I-k-i
+trying	t-r-@I-I-n-g
 tummy	t-^-m-i
 turkey	t-3^-k-i
 ugly	^-g-l-i
@@ -400,6 +424,8 @@ wink	w-I-ng-k
 woolly	w-U-l-i
 woot	w-u-t
 wop	w-@-p
+yacht	j-@-t
 yam	j-ae-m
+yourselves	j-3^-s-E-l-v-z
 yucky	j-^-k-i
 zoe	z-oU-i
