@@ -79,6 +79,7 @@ burs	b-4^-z
 bury	b-E-r-i
 buttock	b-^-t-4-k
 buttocks	b-^-t-4-k-s
+c	s-i
 cactus	k-ae-k-t-I-s
 caddie	k-ae-d-i
 calculate	k-ae-l-k-j-4-l-eI-t
@@ -145,6 +146,7 @@ drinked	d-r-I-ng-k-t
 drips	d-r-I-p-s
 ducky	d-^-k-i
 dwight	d-w-@I-t
+e	i
 early	3^-l-i
 easy	i-z-i
 ebay	i-b-eI
