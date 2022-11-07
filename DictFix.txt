@@ -1,4 +1,3 @@
-
 abbey	ae-b-i
 abby	ae-b-i
 abode	^-b-oU-d
@@ -308,6 +307,7 @@ chatty	tsh-ae-t-i
 checking	tsh-E-k-I-ng
 checkpiece	tsh-E-k-p-i-s
 check-up	tsh-E-k-^-p
+cheeto	tsh-i-t-oU
 cheetos	tsh-i-t-oU-z
 cher	sh-E-r
 cherry	tsh-E-r-i
@@ -316,6 +316,7 @@ chewy	tsh-u-i
 chi	tsh-i
 chili	tsh-I-l-i
 chirp	tsh-3^-p
+cho	tsh-oU
 chooses	tsh-u-z-I-z
 choosing	tsh-u-z-I-ng
 chore	tsh-c-r
@@ -465,6 +466,7 @@ early	3^-l-i
 easy	i-z-i
 eating	i-t-I-ng
 ebay	i-b-eI
+echo	E-k-oU
 edgeless	E-dzh-l-E-s
 edible	E-d-I-b-l
 educate	E-dzh-^-k-eI-t
@@ -608,6 +610,7 @@ goodie	g-U-d-i
 gooey	g-u-w-i
 gorge	g-c-r-dzh
 granny	g-r-ae-n-i
+graphing	g-r-ae-f-I-ng
 gratis	g-r-ae-t-^-s
 greasy	g-r-i-s-i
 grews	g-r-u-z
@@ -741,6 +744,7 @@ joins	dzh-cI-n-z
 jolly	dzh-@-l-i
 journey	dzh-4^-n-i
 julia	dzh-u-l-i-^
+jumbo	dzh-^-m-b-oU
 jumping	dzh-^-m-p-I-ng
 jumpy	dzh-^-m-p-i
 jungles	dzh-^-ng-g-^-l-z
@@ -843,6 +847,7 @@ missy	m-I-s-i
 mm	m
 moby	m-oU-b-i
 mock	m-@-k
+mold	m-oU-l-d
 molly	m-@-l-i
 money	m-^-n-i
 monk	m-^-ng-k
@@ -939,6 +944,7 @@ pew	p-j-u
 pheasant	f-E-z-^-n-t
 phew	f-j-u
 phonetic	f-^-n-E-t-I-k
+photo	f-oU-t-oU   
 phrases	f-r-eI-z-^-z
 picking	p-I-k-I-ng
 picky	p-I-k-i
@@ -1193,6 +1199,7 @@ telling	t-E-l-I-ng
 telly	t-E-l-i
 temp	t-E-m-p
 temperature	t-E-m-p-r-^-tsh-3^
+tena	t-E-n-4
 terribly	t-E-r-4-b-l-i
 territorial	t-E-r-I-t-c-r-i-^-l
 terry	t-E-r-i
@@ -1218,6 +1225,7 @@ throwing	th-r-oU-I-ng
 thumbs	th-^-m-z
 tiara	t-i-@-r-^
 ticking	t-I-k-I-ng
+tickling	t-I-k-l-I-ng
 tidal	t-@I-d-l
 tidy	t-@I-d-i
 tieing	t-@I-I-ng
@@ -1262,9 +1270,11 @@ truce	t-r-u-s
 trying	t-r-@I-I-n-g
 t's	t-i-z
 tsar	z-@-r
+tsheek	tsh-i-k
 tuffy	t-^-f-i
 tuggy	t-^-g-i
 tummy	t-^-m-i
+turbo	t-3^-b-oU
 turkey	t-3^-k-i
 turning	t-3^-n-I-ng
 twenty	t-w-E-n-i
