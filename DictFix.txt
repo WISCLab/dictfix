@@ -470,7 +470,7 @@ echo	E-k-oU
 edgeless	E-dzh-l-E-s
 edible	E-d-I-b-l
 educate	E-dzh-^-k-eI-t
-ehh E
+ehh	E
 eighty	eI-t-i
 electrolysis	I-l-E-k-t-r-@-l-^-s-^-s
 ellie	E-l-i
