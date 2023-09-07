@@ -225,6 +225,7 @@ bowboy	b-@U-b-cI
 bowel	b-@U-l
 bowing	b-oU-I-ng
 bowlette	b-@U-l-E-t
+boww	b-@U
 boyt	b-cI-t
 bradley	b-r-ae-d-l-i
 brady	b-r-eI-d-i
