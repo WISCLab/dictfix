@@ -778,6 +778,7 @@ laughter	l-ae-f-t-4^
 laundry	l-c-n-d-r-i
 laying	l-eI-I-ng
 lazy	l-eI-z-i
+leapt	l-E-p-t
 learnin	l-3^-n-I-n
 leaving	l-i-v-I-ng
 leggy	l-E-g-i
@@ -791,7 +792,9 @@ licking	l-I-k-I-ng
 lighthouse	l-@I-t-h-@U-s
 lillie	l-I-l-i
 limb	l-I-m
+linen	l-I-n-I-n
 liquory	l-I-k-3^-i
+liter	l-i-t-4^
 literally	l-I-t-4^-4-l-i
 literate	l-I-t-3^-^-t
 loin	l-cI-n
@@ -949,6 +952,8 @@ petey	p-i-t-i
 petty	p-E-t-i
 petunias	p-^-t-u-n-i-^-z
 pew	p-j-u
+phase	f-eI-z
+phases	f-eI-z-I-z
 pheasant	f-E-z-^-n-t
 phew	f-j-u
 phonetic	f-^-n-E-t-I-k
@@ -1322,6 +1327,7 @@ void	v-cI-d
 volley	v-@-l-i
 vomit	v-@-m-I-t
 vowel	v-@U-4-l
+wad	w-@-d
 waiting	w-eI-t-I-ng
 waking	w-eI-k-I-ng
 walkie	w-c-k-i
