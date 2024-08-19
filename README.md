@@ -1,19 +1,20 @@
 # dictfix
 
-Corrections to our phonetic dictionary
+Corrections to our phonetic dictionary.
 
+As part of our intelligibility computation pipeline, we convert English words into 
+their pronunciations using an automatic *grapheme-to-phoneme* conversion step. We 
+can provide the converter with a list of "dictionary fixes" to specify how to 
+convert specific words. This repository houses that list of exceptions. 
 
 ## Notes
 
-How to sort the file in git bash. I use an intermediate file to avoid 
-[messing with the original](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html#redirecting-to-the-same-file).
+When I update the list, I just put the new entries on the bottom and then sort the 
+file. Here's how to sort the file in git bash:
 
 ```
 Tristan@HONEYCOMB MINGW64 ~/Desktop
-$ cat DictFix.txt | sort > DictFix-temp.txt
-
-Tristan@HONEYCOMB MINGW64 ~/Desktop
-$ mv DictFix-temp.txt DictFix.txt
+$ sort --unique DictFix.txt --output DictFix.txt
 ```
 
 How to download the file using the command line.
