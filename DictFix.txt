@@ -171,6 +171,7 @@ bias	b-@I-^-s
 bibi's	b-i-b-i-z
 biggy	b-I-g-i
 bignette	b-E-n-j-eI
+biker	b-@I-k-4^
 bikini	b-I-k-i-n-i
 billiard	b-I-l-j-3^-d
 billy	b-I-l-i
@@ -444,6 +445,8 @@ dont	d-oU-n-t
 doritos	d-c-r-i-t-oU-z
 dorn	d-c-r-n
 dose	d-oU-s
+dosen't	d-^-z-n-t
+dosent	d-^-z-n-t
 douche	d-u-sh
 dove	d-^-v
 downward	d-@U-n-w-3^-d
@@ -517,7 +520,7 @@ fanny	f-ae-n-i
 faucet	f-c-s-I-t
 fault	f-c-l-t
 faux	f-oU
-fearlessly	f-i-r-l-E-s-l-i
+fearlessly	f-I-r-l-E-s-l-i
 feathery	f-E-dh-4^-i
 february's	f-E-b-j-^-w-E-r-i-z
 feeding	f-i-d-I-ng
@@ -539,11 +542,11 @@ fingernail	f-I-ng-g-3^-n-eI-l
 fiona	f-i-oU-n-^
 firecracker	f-@I-3^-k-r-ae-k-3^
 firecrackers	f-@I-3^-k-r-ae-k-3^-z
-firefighter	f-@I-r-f-@I-t-3^
+firefighter	f-@I-3^-f-@I-t-3^
 firefighters	f-@I-3^-f-@I-t-3^-z
 firehouse	f-@I-3^-h-@U-s
 firewood	f-@I-3^-w-U-d
-firework	f-@I-r-w-3^-k
+firework	f-@I-3^-w-3^-k
 fishie	f-I-sh-i
 fissure	f-I-sh-3^
 fitted	f-I-t-^-d
@@ -606,7 +609,6 @@ gnat	n-ae-t
 gnaw	n-c
 gnome	n-oU-m
 goally	g-oU-l-i
-goey	g-oU-i
 goey	g-u-i
 going	g-oU-I-ng
 good-bye	g-U-d-b-@I
@@ -618,6 +620,8 @@ graphing	g-r-ae-f-I-ng
 gratis	g-r-ae-t-^-s
 greasy	g-r-i-s-i
 grews	g-r-u-z
+gring	g-r-I-ng
+grit	g-r-I-t
 grocery	g-r-oU-sh-4^-i
 groovy	g-r-u-v-i
 grouchy	g-r-@U-tsh-i
@@ -629,6 +633,7 @@ gummy	g-^-m-i
 gutter	g-^-t-4^
 gyawd	g-j-c-d
 h	eI-tsh
+haa	h-@
 haagen	h-@-g-^-n
 hack	h-ae-k
 hague	h-eI-g
@@ -713,6 +718,7 @@ hymn	h-I-m
 hype	h-@I-p
 hyvee	h-@I-v-i
 i'll	@I-l
+iced	@I-s-t
 icky	I-k-i
 ig	I-g
 impress	I-m-p-r-E-s
@@ -815,6 +821,8 @@ maddy	m-ae-d-i
 maggie	m-ae-g-i
 maggy	m-ae-g-i
 making	m-eI-k-I-ng
+mammie	m-ae-m-i
+mammy	m-ae-m-i
 manny	m-ae-n-i
 manure	m-^-n-j-U-r
 many	m-E-n-i
@@ -845,9 +853,11 @@ miami	m-@I-ae-m-i
 mickey	m-I-k-i
 micky	m-I-k-i
 mighty	m-@I-t-i
+mild	m-@I-l-d
 mildew	m-I-l-d-u
 mini	m-I-n-i
 minion	m-I-n-j-^-n
+minni	m-I-n-i
 minnie	m-I-n-i
 minny	m-I-n-i
 mirror	m-I-r-3^
@@ -911,6 +921,7 @@ ostrich	c-s-t-r-I-tsh
 ot	c-t
 ouchie	@U-tsh-i
 outfits	@U-t-f-I-t-s
+outright	@U-t-r-@I-t
 outy	@U-t-i
 owey	@U-w-i
 owie	@U-w-i
@@ -940,6 +951,8 @@ paused	p-c-z-d
 pawn	p-c-n
 pawned	p-c-n-d
 pealy	p-i-l-i
+pedal	p-E-d-4-l
+peddle	p-E-d-4-l
 peely	p-i-l-i
 peices	p-i-s-I-z
 penny	p-E-n-i
@@ -961,12 +974,15 @@ photo	f-oU-t-oU
 phrases	f-r-eI-z-^-z
 picking	p-I-k-I-ng
 picky	p-I-k-i
+pieced	p-i-s-t
 pieces	p-i-s-I-z
 pigmy	p-I-g-m-i
 pinches	p-I-n-tsh-I-z
 pinching	p-I-n-tsh-I-ng
 pineapples	p-@I-n-ae-p-4-l-z
 pinkie	p-I-ng-k-i
+pinkies	p-I-ng-k-i-z
+pinky's	p-I-ng-k-I-z
 pinny	p-I-n-i
 piny	p-@I-n-i
 pita	p-i-t-4
@@ -975,6 +991,7 @@ plague	p-l-ae-g
 playing	p-l-eI-I-n-g
 plenty	p-l-E-n-t-i
 ploy	p-l-cI
+poe	p-oU
 poem	p-oU-4-m
 poet	p-oU-I-t
 poetic	p-oU-I-t-I-k
@@ -989,19 +1006,23 @@ polite	p-4-l-@I-t
 poll	p-oU-l
 pony	p-oU-n-i
 pony's	p-oU-n-i-z
-pony's	p-oU-n-i-z   
 poot	p-u-t
 porches	p-c-r-tsh-^-z
+pore	p-c-r
+porous	p-c-r-^-s
 porpoises	p-c-r-p-^-s-^-z
 porridge	p-c-r-^-dzh
 porter's	p-c-r-t-3^-z
 portion	p-c-r-sh-^-n
 portions	p-c-r-sh-^-n-z
+porus	p-c-r-^-s
 posture	p-@-s-tsh-3^
+potao	p-4-t-eI-t-oU
 potato	p-4-t-eI-t-oU
-potatoe	p-4-t-eI-t-oU-z
+potatoe	p-4-t-eI-t-oU
 potatoes	p-4-t-eI-t-oU-z
 potatos	p-4-t-eI-t-oU-z
+pottao	p-4-t-eI-t-oU
 pottie	p-@-t-i
 pour	p-c-r
 prairie	p-r-E-r-i
@@ -1024,6 +1045,7 @@ punny	p-^-n-i
 puny	p-j-u-n-i
 puppy	p-^-p-i
 purchase	p-3^-tsh-^-s
+pure	p-j-U-r
 puree	p-j-U-r-eI
 pushup	p-U-sh-^-p
 putter	p-^-t-3^
@@ -1071,6 +1093,7 @@ ringing	r-I-ng-I-ng
 ritual	r-I-tsh-u-4-l
 rocky	r-@-k-i
 rot	r-@-t
+rue	r-u
 ruin	r-u-^-n
 ruined	r-u-^-n-d
 s	E-s
@@ -1094,7 +1117,7 @@ secrets	s-i-k-r-I-t-s
 secure	s-I-k-j-U-r
 seedy	s-i-d-i
 selling	s-E-l-I-ng
-seriously	s-i-r-i-4-s-l-i
+seriously	s-I-r-i-4-s-l-i
 seventy	s-E-v-4-n-t-i
 shady	sh-eI-d-i
 shaked	sh-eI-k-t
@@ -1103,6 +1126,7 @@ shaky	sh-eI-k-i
 shankey	sh-ae-ng-k-i
 sharky	sh-@-r-k-i
 shaw	sh-c
+shed	sh-E-d
 sheddy	sh-E-d-i
 shewed	sh-u-d
 shiny	sh-@I-n-i
@@ -1136,6 +1160,7 @@ somali	s-4-m-@-l-i
 sombody	s-^-m-b-^-d-i
 sombrero	s-@-m-b-r-E-r-oU
 something	s-^-m-th-I-ng
+somthing	s-^-m-th-I-ng
 sores	s-c-r-z
 spaghetti	s-p-^-g-E-t-i
 sparkly	s-p-@-r-k-l-i
@@ -1156,6 +1181,7 @@ stripy	s-t-r-@I-p-i
 stroll	s-t-r-oU-l
 study	s-t-^-d-i
 sturdy	s-t-4^-d-i
+su	s-u
 suess	s-u-s
 sugary	sh-U-g-@-r-i
 suggest	s-^-dzh-E-s-t
@@ -1221,6 +1247,8 @@ territorial	t-E-r-I-t-c-r-i-4-l
 terry	t-E-r-i
 thai	t-@I
 thaw	dh-c
+theater	th-i-t-4^
+theatre	th-i-t-4^
 theft	th-E-f-t
 thems	dh-E-m-z
 theo	th-i-oU
@@ -1245,6 +1273,7 @@ tickling	t-I-k-l-I-ng
 tidal	t-@I-d-4-l
 tidy	t-@I-d-i
 tieing	t-@I-I-ng
+tier	t-I-r
 tightly	t-@I-t-l-i
 tiki	t-i-k-i
 timed	t-@I-m-d
@@ -1270,6 +1299,8 @@ tot	t-@-t
 totally	t-oU-t-4-l-i
 tots	t-@-t-s
 toughie	t-^-f-i
+toung	t-^-ng
+tounge	t-^-ng
 tour	t-U-r
 tours	t-U-r-z
 towel	t-@U-4-l
@@ -1297,6 +1328,7 @@ tying	t-@I-I-ng
 typey	t-@I-p-i
 typing	t-@I-p-I-ng
 typy	t-@I-p-i
+tyre	t-@I-3^
 ugh	^-g
 ugly	^-g-l-i
 uhh	^
@@ -1344,7 +1376,7 @@ warren	w-c-r-4-n
 washing	w-@-sh-I-ng
 wat	w-@-t
 watching	w-@-tsh-I-ng
-we're	w-i-r
+we're	w-I-r
 weanie	w-i-n-i
 wedges	w-E-dzh-^-z
 wedgie	w-E-dzh-i
@@ -1359,6 +1391,7 @@ whinny	w-I-n-i
 whiskey	w-I-s-k-i
 whom	h-u-m
 whoot	w-u-t
+whore	h-c-r
 wiggling	w-I-g-l-I-ng
 wii	w-i
 willy	w-I-l-i
