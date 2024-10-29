@@ -3,7 +3,7 @@
 input_file="DictFix.txt"
 conflict_found=false
 
-# Sort the file and check for duplicates with different pronunciations
+# Check for duplicates with different pronunciations
 awk -F'\t' '
 {
     if (seen[$1] && seen[$1] != $2) {
