@@ -875,6 +875,9 @@ iced	@I-s-t
 icky	I-k-i
 ig	I-g
 i'll	@I-l
+i'mma	@I-m-4
+ima	@I-m-4
+imma	@I-m-4
 impossible	I-m-p-@-s-4-b-4-l
 impress	I-m-p-r-E-s
 impression	I-m-p-r-E-sh-4-n
