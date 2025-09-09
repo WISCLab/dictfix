@@ -1059,6 +1059,7 @@ mirror	m-I-r-3^
 misery	m-I-z-4^-i
 missy	m-I-s-i
 mm	m
+mnm  E-m-E-n-E-m
 moby	m-oU-b-i
 mock	m-@-k
 model	m-@-d-4-l
@@ -1162,6 +1163,7 @@ pause	p-c-z
 paused	p-c-z-d
 pawn	p-c-n
 pawned	p-c-n-d
+pbnj  p-i-b-i-E-n-dzh-eI
 pealy	p-i-l-i
 pebble	p-E-b-4-l
 pebbled	p-E-b-4-l-d
