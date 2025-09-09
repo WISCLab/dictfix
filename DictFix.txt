@@ -87,7 +87,7 @@ attract	4-t-r-ae-k-t
 attracts	4-t-r-ae-k-t-s
 audrey	c-d-r-i
 aun	c-n
-auntie	     ae-n-t-i
+auntie	ae-n-t-i
 aura	c-r-4
 autobike	c-t-oU-b-@I-k
 autobus	c-t-oU-b-^-s
@@ -1059,7 +1059,7 @@ mirror	m-I-r-3^
 misery	m-I-z-4^-i
 missy	m-I-s-i
 mm	m
-mnm  E-m-E-n-E-m
+mnm	E-m-E-n-E-m
 moby	m-oU-b-i
 mock	m-@-k
 model	m-@-d-4-l
@@ -1163,7 +1163,7 @@ pause	p-c-z
 paused	p-c-z-d
 pawn	p-c-n
 pawned	p-c-n-d
-pbnj  p-i-b-i-E-n-dzh-eI
+pbnj	p-i-b-i-E-n-dzh-eI
 pealy	p-i-l-i
 pebble	p-E-b-4-l
 pebbled	p-E-b-4-l-d
@@ -1199,7 +1199,7 @@ phases	f-eI-z-I-z
 pheasant	f-E-z-^-n-t
 phew	f-j-u
 phonetic	f-^-n-E-t-I-k
-photo	f-oU-t-oU   
+photo	f-oU-t-oU
 phrases	f-r-eI-z-^-z
 picking	p-I-k-I-ng
 pickle	p-I-k-4-l
@@ -1234,7 +1234,7 @@ pointy	p-cI-n-t-i
 poise	p-cI-z
 poisoned	p-cI-z-^-n-d
 pokey	p-oU-k-i
-pokeys	p-oU-k-i-z  
+pokeys	p-oU-k-i-z
 polite	p-4-l-@I-t
 poll	p-oU-l
 pony	p-oU-n-i
@@ -1594,9 +1594,9 @@ tiny	t-@I-n-i
 tippy	t-I-p-i
 tire	t-@I-3^
 tis	t-I-z
-title	 t-@I-t-4-l
-titled	 t-@I-t-4-l-d
-titles	 t-@I-t-4-l-s
+title	t-@I-t-4-l
+titled	t-@I-t-4-l-d
+titles	t-@I-t-4-l-s
 titti	t-I-t-i
 toddle	t-@-d-4-l
 toddled	t-@-d-4-l-d
@@ -1787,3 +1787,4 @@ zillion	z-I-l-j-^-n
 zimbabwe	z-I-m-b-@-b-w-eI
 zion	z-@I-^-n
 zoe	z-oU-i
+
