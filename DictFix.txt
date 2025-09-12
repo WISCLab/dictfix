@@ -1142,6 +1142,7 @@ oysters	cI-s-t-4^-z
 paddy	p-ae-d-i
 pages	p-eI-dzh-I-z
 paisley	p-eI-z-l-i
+paisley's	p-eI-z-l-i-z
 palm	p-@-m
 panel	p-ae-n-4-l
 paneled	p-ae-n-4-l-d
@@ -1788,5 +1789,6 @@ zillion	z-I-l-j-^-n
 zimbabwe	z-I-m-b-@-b-w-eI
 zion	z-@I-^-n
 zoe	z-oU-i
+
 
 
