@@ -164,7 +164,7 @@ beaty	b-i-t-i
 beautiful	b-j-u-t-4-f-4-l
 beauty	b-j-u-t-i
 bebe	b-E-b-eI
-bebe's	b-E-b-eI-z
+bebes	b-E-b-eI-z
 beedy	b-i-d-i
 beenie	b-i-n-i
 beeny	b-i-n-i
@@ -184,7 +184,7 @@ bendy	b-E-n-d-i
 benie	b-E-n-i
 bennie	b-E-n-i
 benny	b-E-n-i
-bernie's	b-3^-n-i-z
+bernies	b-3^-n-i-z
 berries	b-E-r-i-z
 bertha	b-3^-th-^
 beside	b-I-s-@I-d
@@ -192,7 +192,7 @@ besides	b-I-s-@I-d-z
 betty	b-E-t-i
 bi	b-@I
 bias	b-@I-^-s
-bibi's	b-i-b-i-z
+bibis	b-i-b-i-z
 bible	b-@I-b-4-l
 bibles	b-@I-b-4-l-z
 bicycle	b-@I-s-I-k-4-l
@@ -489,7 +489,7 @@ dancing	d-ae-n-s-I-ng
 danny	d-ae-n-i
 darter	d-@-r-t-4^
 das	d-ae-s
-daughter's	d-c-t-4^-z
+daughters	d-c-t-4^-z
 davie	d-eI-v-i
 debt	d-E-t
 debtor	d-E-t-3^
@@ -632,7 +632,7 @@ fault	f-c-l-t
 faux	f-oU
 fearlessly	f-I-r-l-E-s-l-i
 feathery	f-E-dh-4^-i
-february's	f-E-b-j-^-w-E-r-i-z
+februarys	f-E-b-j-^-w-E-r-i-z
 feeding	f-i-d-I-ng
 feeling	f-i-l-I-ng
 feenie	f-i-n-i
@@ -898,7 +898,7 @@ j	dzh-eI
 ja	j-@
 jacque	zh-eI-k
 jaggy	dzh-ae-g-i
-jakey's	dzh-eI-k-i-z
+jakeys	dzh-eI-k-i-z
 jamie	dzh-eI-m-i
 jeanie	dzh-i-n-i
 jelly	dzh-E-l-i
@@ -940,7 +940,7 @@ kettles	k-E-t-4-l-z
 khakis	k-ae-k-i-z
 kiddy	k-I-d-i
 kih	k-I
-kylo's	k-@I-l-oU-z
+kylos	k-@I-l-oU-z
 label	l-eI-b-4-l
 labeled	l-eI-b-4-l-d
 labels	l-eI-b-4-l-z
@@ -1142,7 +1142,7 @@ oysters	cI-s-t-4^-z
 paddy	p-ae-d-i
 pages	p-eI-dzh-I-z
 paisley	p-eI-z-l-i
-paisley's	p-eI-z-l-i-z
+paisleys	p-eI-z-l-i-z
 palm	p-@-m
 panel	p-ae-n-4-l
 paneled	p-ae-n-4-l-d
@@ -1160,7 +1160,7 @@ patience	p-eI-sh-^-n-s
 patterns	p-ae-t-3^-n-z
 patti	p-ae-t-i
 patty	p-ae-t-i
-paula's	p-c-l-4-z
+paulas	p-c-l-4-z
 pause	p-c-z
 paused	p-c-z-d
 pawn	p-c-n
@@ -1217,7 +1217,7 @@ pineapple	p-@I-n-ae-p-4-l
 pineapples	p-@I-n-ae-p-4-l-z
 pinkie	p-I-ng-k-i
 pinkies	p-I-ng-k-i-z
-pinky's	p-I-ng-k-I-z
+pinkys	p-I-ng-k-I-z
 pinny	p-I-n-i
 piny	p-@I-n-i
 pita	p-i-t-4
@@ -1240,7 +1240,7 @@ pokeys	p-oU-k-i-z
 polite	p-4-l-@I-t
 poll	p-oU-l
 pony	p-oU-n-i
-pony's	p-oU-n-i-z
+ponys	p-oU-n-i-z
 poot	p-u-t
 popsicle	p-@-p-s-I-k-4-l
 popsicles	p-@-p-s-I-k-4-l-z
@@ -1249,7 +1249,7 @@ pore	p-c-r
 porous	p-c-r-^-s
 porpoises	p-c-r-p-^-s-^-z
 porridge	p-c-r-^-dzh
-porter's	p-c-r-t-3^-z
+porters	p-c-r-t-3^-z
 portion	p-c-r-sh-^-n
 portions	p-c-r-sh-^-n-z
 porus	p-c-r-^-s
@@ -1641,7 +1641,7 @@ troubled	t-r-^-b-4-l-d
 troubles	t-r-^-b-4-l-z
 truce	t-r-u-s
 trying	t-r-@I-I-n-g
-t's	t-i-z
+ts	t-i-z
 tsar	z-@-r
 tsheek	tsh-i-k
 tuffy	t-^-f-i
@@ -1789,6 +1789,3 @@ zillion	z-I-l-j-^-n
 zimbabwe	z-I-m-b-@-b-w-eI
 zion	z-@I-^-n
 zoe	z-oU-i
-
-
-
