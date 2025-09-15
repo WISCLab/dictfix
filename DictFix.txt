@@ -1348,6 +1348,7 @@ rocky	r-@-k-i
 roid	r-cI-d
 ronald	r-@-n-4-l-d
 rot	r-@-t
+roundabout	r-@U-n-d-4-b-@U-t
 rue	r-u
 ruin	r-u-^-n
 ruined	r-u-^-n-d
