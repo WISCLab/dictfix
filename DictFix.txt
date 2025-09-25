@@ -1791,7 +1791,8 @@ yacht	j-@-t
 yam	j-ae-m
 yearn	j-3^-n
 yolk	j-oU-k
-you're	j-U-r
+your	j-3^
+you're	j-3^
 yourselves	j-3^-s-E-l-v-z
 yucky	j-^-k-i
 yukie	j-u-k-i
@@ -1801,4 +1802,5 @@ zillion	z-I-l-j-^-n
 zimbabwe	z-I-m-b-@-b-w-eI
 zion	z-@I-^-n
 zoe	z-oU-i
+
 
