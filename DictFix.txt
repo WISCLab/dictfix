@@ -802,6 +802,9 @@ heckle	h-E-k-4-l
 heckled	h-E-k-4-l-d
 heckles	h-E-k-4-l-z
 hedge	h-E-dzh
+hell	h-E-l
+he'd	h-i-d
+he'll	h-i-l
 heidi	h-@I-d-i
 helping	h-E-l-p-I-ng
 henry	h-E-n-r-i
@@ -873,7 +876,10 @@ hype	h-@I-p
 hyvee	h-@I-v-i
 iced	@I-s-t
 icky	I-k-i
+id	I-d
 ig	I-g
+ill	I-l
+i'd	@I-d
 i'll	@I-l
 i'mma	@I-m-4
 ima	@I-m-4
@@ -1393,7 +1399,9 @@ shankey	sh-ae-ng-k-i
 sharky	sh-@-r-k-i
 shaw	sh-c
 shed	sh-E-d
+shell	sh-E-l
 she'd	sh-i-d
+she'll	sh-i-l
 sheddy	sh-E-d-i
 shewed	sh-u-d
 shiny	sh-@I-n-i
@@ -1725,12 +1733,15 @@ washing	w-@-sh-I-ng
 wat	w-@-t
 watching	w-@-tsh-I-ng
 weanie	w-i-n-i
+wed	w-E-d
+we'd	w-i-d
 wedges	w-E-dzh-^-z
 wedgie	w-E-dzh-i
 weenie	w-i-n-i
 weep	w-i-p
 weeped	w-i-p-t
 weeps	w-i-p-s
+were	w-3^
 we're	w-I-r
 what'd	w-^-t-I-d
 whew	w-j-u
