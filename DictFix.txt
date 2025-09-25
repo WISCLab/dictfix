@@ -1650,7 +1650,7 @@ troubled	t-r-^-b-4-l-d
 troubles	t-r-^-b-4-l-z
 truce	t-r-u-s
 trying	t-r-@I-I-n-g
-ts	t-i-z
+t's	t-i-z
 tsar	z-@-r
 tsheek	tsh-i-k
 tuffy	t-^-f-i
@@ -1801,3 +1801,4 @@ zillion	z-I-l-j-^-n
 zimbabwe	z-I-m-b-@-b-w-eI
 zion	z-@I-^-n
 zoe	z-oU-i
+
