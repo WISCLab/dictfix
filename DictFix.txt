@@ -102,6 +102,7 @@ ay	eI
 aye	@I
 ayy	eI
 b	b-i
+ba	b-@
 baa	b-@
 babie	b-eI-b-i
 babies	b-eI-b-i-z
@@ -1805,6 +1806,7 @@ zillion	z-I-l-j-^-n
 zimbabwe	z-I-m-b-@-b-w-eI
 zion	z-@I-^-n
 zoe	z-oU-i
+
 
 
 
