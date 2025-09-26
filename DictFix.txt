@@ -1156,6 +1156,7 @@ paneled	p-ae-n-4-l-d
 panels	p-ae-n-4-l-z
 panini	p-@-n-i-n-i
 pantie	p-ae-n-t-i
+papa	p-@-p-4
 parental	p-3^-E-n-t-4-l
 participles	p-@-r-t-I-s-I-p-4-l-z
 party	p-@-r-t-i
@@ -1804,6 +1805,7 @@ zillion	z-I-l-j-^-n
 zimbabwe	z-I-m-b-@-b-w-eI
 zion	z-@I-^-n
 zoe	z-oU-i
+
 
 
 
