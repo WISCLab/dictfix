@@ -1493,6 +1493,7 @@ suess	s-u-s
 sugary	sh-U-g-@-r-i
 suggest	s-^-dzh-E-s-t
 suite	s-w-i-t
+sumo	s-u-m-oU
 sunny	s-^-n-i
 superheroes	s-u-p-4^-h-i-r-oU-z
 supportive	s-^-p-c-r-t-I-v
@@ -1803,6 +1804,7 @@ zillion	z-I-l-j-^-n
 zimbabwe	z-I-m-b-@-b-w-eI
 zion	z-@I-^-n
 zoe	z-oU-i
+
 
 
 
