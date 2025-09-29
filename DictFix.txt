@@ -383,6 +383,7 @@ cherry	tsh-E-r-i
 chewing	tsh-u-I-ng
 chewy	tsh-u-i
 chi	tsh-i
+chic	sh-i-k
 chili	tsh-I-l-i
 chirp	tsh-3^-p
 cho	tsh-oU
@@ -791,6 +792,7 @@ hardy	h-@-r-d-i
 harmony	h-@-r-m-4-n-I
 harry	h-E-r-i
 harvey	h-@-r-v-i
+hater	h-eI-t-4^
 hattie	h-ae-t-i
 hault	h-c-l-t
 haunt	h-c-n-t
@@ -803,11 +805,11 @@ heard	h-3^-d
 heckle	h-E-k-4-l
 heckled	h-E-k-4-l-d
 heckles	h-E-k-4-l-z
-hedge	h-E-dzh
-hell	h-E-l
 he'd	h-i-d
-he'll	h-i-l
+hedge	h-E-dzh
 heidi	h-@I-d-i
+hell	h-E-l
+he'll	h-i-l
 helping	h-E-l-p-I-ng
 henry	h-E-n-r-i
 heroes	h-i-r-oU-z
@@ -878,14 +880,14 @@ hype	h-@I-p
 hyvee	h-@I-v-i
 iced	@I-s-t
 icky	I-k-i
+i'd	@I-d
 id	I-d
 ig	I-g
-ill	I-l
-i'd	@I-d
 i'll	@I-l
-i'mma	@I-m-4
+ill	I-l
 ima	@I-m-4
 imma	@I-m-4
+i'mma	@I-m-4
 impossible	I-m-p-@-s-4-b-4-l
 impress	I-m-p-r-E-s
 impression	I-m-p-r-E-sh-4-n
@@ -949,6 +951,7 @@ khakis	k-ae-k-i-z
 kiddy	k-I-d-i
 kih	k-I
 kylos	k-@I-l-oU-z
+l	E-l
 label	l-eI-b-4-l
 labeled	l-eI-b-4-l-d
 labels	l-eI-b-4-l-z
@@ -1113,6 +1116,8 @@ needy	n-i-d-i
 nerdy	n-3^-d-i
 neuron	n-U-r-@-n
 neutral	n-u-t-r-4-l
+nightime	n-@I-t-t-@I-m
+nighttime	n-@I-t-t-@I-m
 nighty	n-@I-t-i
 ninety	n-@I-n-t-i
 nipple	n-I-p-4-l
@@ -1212,6 +1217,7 @@ phew	f-j-u
 phonetic	f-^-n-E-t-I-k
 photo	f-oU-t-oU
 phrases	f-r-eI-z-^-z
+pi	p-@I
 picking	p-I-k-I-ng
 pickle	p-I-k-4-l
 pickled	p-I-k-4-l-d
@@ -1402,11 +1408,13 @@ shankey	sh-ae-ng-k-i
 sharky	sh-@-r-k-i
 shaw	sh-c
 shed	sh-E-d
-shell	sh-E-l
 she'd	sh-i-d
-she'll	sh-i-l
 sheddy	sh-E-d-i
+shell	sh-E-l
+she'll	sh-i-l
 shewed	sh-u-d
+shingle	sh-I-ng-g-4-l
+shingles	sh-I-ng-g-4-l-z
 shiny	sh-@I-n-i
 shooed	sh-u-d
 should've	sh-U-d-^-v
@@ -1449,6 +1457,7 @@ snapple	s-n-ae-p-4-l
 snapples	s-n-ae-p-4-l-z
 snowy	s-n-oU-i
 snuggly	s-n-^-g-l-i
+sod	s-@-d
 softball	s-c-f-t-b-c-l
 somali	s-4-m-@-l-i
 sombody	s-^-m-b-^-d-i
@@ -1680,6 +1689,7 @@ twittle	t-w-I-t-4-l
 twittled	t-w-I-t-4-l-d
 twittles	t-w-I-t-4-l-z
 tying	t-@I-I-ng
+tyke	t-@I-k
 typey	t-@I-p-i
 typing	t-@I-p-I-ng
 typy	t-@I-p-i
@@ -1717,6 +1727,7 @@ voe	v-oU
 void	v-cI-d
 volley	v-@-l-i
 vomit	v-@-m-I-t
+vow	v-@U
 vowel	v-@U-4-l
 wad	w-@-d
 waggle	w-ae-g-4-l
@@ -1806,10 +1817,3 @@ zillion	z-I-l-j-^-n
 zimbabwe	z-I-m-b-@-b-w-eI
 zion	z-@I-^-n
 zoe	z-oU-i
-
-
-
-
-
-
-
