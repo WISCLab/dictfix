@@ -1,3 +1,4 @@
+'gater	g-eI-t-4^
 abbey	ae-b-i
 abby	ae-b-i
 able	eI-b-4-l
@@ -102,6 +103,7 @@ ay	eI
 aye	@I
 ayy	eI
 b	b-i
+b'bye	b-^-b-@I
 ba	b-@
 baa	b-@
 babie	b-eI-b-i
@@ -149,7 +151,6 @@ battles	b-ae-t-4-l-z
 bauf	b-c-f
 bawk	b-c-k
 bays	b-eI-z
-b'bye	b-^-b-@I
 beaded	b-i-d-I-d
 beadie	b-i-d-i
 beady	b-i-d-i
@@ -164,6 +165,7 @@ beatles	b-i-t-4-l-z
 beaty	b-i-t-i
 beautiful	b-j-u-t-4-f-4-l
 beauty	b-j-u-t-i
+beb	b-E-b
 bebe	b-E-b-eI
 bebes	b-E-b-eI-z
 beedy	b-i-d-i
@@ -328,6 +330,7 @@ butthead	b-^-t-dh-E-d
 buttock	b-^-t-4-k
 buttocks	b-^-t-4-k-s
 c	s-i
+caber	k-eI-b-4^
 cable	k-eI-b-4-l
 cabled	k-eI-b-4-l-d
 cables	k-eI-b-4-l-z
@@ -341,6 +344,7 @@ californian	k-ae-l-I-f-c-r-n-j-^-n
 callaway	k-ae-l-4-w-eI
 calling	k-c-l-I-ng
 calm	k-@-l-m
+cam	k-ae-m
 candle	k-ae-n-d-4-l
 candled	k-ae-n-d-4-l-d
 candles	k-ae-n-d-4-l-z
@@ -373,9 +377,9 @@ chappy	tsh-ae-p-i
 char	tsh-@-r
 charlie	tsh-@-r-l-i
 chatty	tsh-ae-t-i
+check-up	tsh-E-k-^-p
 checking	tsh-E-k-I-ng
 checkpiece	tsh-E-k-p-i-s
-check-up	tsh-E-k-^-p
 cheeto	tsh-i-t-oU
 cheetos	tsh-i-t-oU-z
 cher	sh-E-r
@@ -543,8 +547,8 @@ doodles	d-u-d-4-l-z
 doritos	d-c-r-i-t-oU-z
 dorn	d-c-r-n
 dose	d-oU-s
-dosent	d-^-z-n-t
 dosen't	d-^-z-n-t
+dosent	d-^-z-n-t
 double	d-^-b-4-l
 doubled	d-^-b-4-l-d
 doubles	d-^-b-4-l-z
@@ -711,12 +715,12 @@ furry	f-3^-i
 fuzzy	f-^-z-i
 g	dzh-i
 gabriel	g-eI-b-r-i-4-l
+gam	g-ae-m
 garbage	g-@-r-b-I-dzh
 gargle	g-@-r-g-4-l
 gargled	g-@-r-g-4-l-d
 gargles	g-@-r-g-4-l-z
 garment	g-@-r-m-E-n-t
-'gater	g-eI-t-4^
 gauc	g-c-k
 gauntlet	g-c-n-t-l-E-t
 gawk	g-c-k
@@ -749,7 +753,7 @@ going	g-oU-I-ng
 good-bye	g-U-d-b-@I
 goodie	g-U-d-i
 gooey	g-u-w-i
-google	g-U-g-4-l
+google	g-u-g-4-l
 gorge	g-c-r-dzh
 granny	g-r-ae-n-i
 graphing	g-r-ae-f-I-ng
@@ -798,6 +802,8 @@ hault	h-c-l-t
 haunt	h-c-n-t
 having	h-ae-v-I-ng
 hawn	h-c-n
+he'd	h-i-d
+he'll	h-i-l
 headress	h-E-d-r-E-s
 headrest	h-E-d-r-E-s-t
 heady	h-E-d-i
@@ -805,13 +811,12 @@ heard	h-3^-d
 heckle	h-E-k-4-l
 heckled	h-E-k-4-l-d
 heckles	h-E-k-4-l-z
-he'd	h-i-d
 hedge	h-E-dzh
 heidi	h-@I-d-i
 hell	h-E-l
-he'll	h-i-l
 helping	h-E-l-p-I-ng
 henry	h-E-n-r-i
+hep	h-E-p
 heroes	h-i-r-oU-z
 heye	h-@I
 hickory	h-I-k-3^-i
@@ -878,16 +883,16 @@ hustles	h-^-s-4-l-z
 hymn	h-I-m
 hype	h-@I-p
 hyvee	h-@I-v-i
+i'd	@I-d
+i'll	@I-l
+i'mma	@I-m-4
 iced	@I-s-t
 icky	I-k-i
-i'd	@I-d
 id	I-d
 ig	I-g
-i'll	@I-l
 ill	I-l
 ima	@I-m-4
 imma	@I-m-4
-i'mma	@I-m-4
 impossible	I-m-p-@-s-4-b-4-l
 impress	I-m-p-r-E-s
 impression	I-m-p-r-E-sh-4-n
@@ -906,6 +911,8 @@ issue	I-sh-u
 it'll	I-t-4-l
 j	dzh-eI
 ja	j-@
+jackal	dzh-ae-k-4-l
+jackals	dzh-ae-k-4-l-z
 jacque	zh-eI-k
 jaggy	dzh-ae-g-i
 jakeys	dzh-eI-k-i-z
@@ -1003,7 +1010,9 @@ losers	l-u-z-3^-z
 louisiana	l-u-i-z-i-ae-n-^
 lovely	l-^-v-l-i
 loyd	l-cI-d
+lu	l-u
 lucky	l-^-k-i
+lue	l-u
 lunging	l-^-n-dzh-I-ng
 m	E-m
 maddy	m-ae-d-i
@@ -1116,6 +1125,7 @@ needy	n-i-d-i
 nerdy	n-3^-d-i
 neuron	n-U-r-@-n
 neutral	n-u-t-r-4-l
+neverwhere	n-E-v-4^-w-E-r
 nightime	n-@I-t-t-@I-m
 nighttime	n-@I-t-t-@I-m
 nighty	n-@I-t-i
@@ -1407,11 +1417,11 @@ shaky	sh-eI-k-i
 shankey	sh-ae-ng-k-i
 sharky	sh-@-r-k-i
 shaw	sh-c
-shed	sh-E-d
 she'd	sh-i-d
+she'll	sh-i-l
+shed	sh-E-d
 sheddy	sh-E-d-i
 shell	sh-E-l
-she'll	sh-i-l
 shewed	sh-u-d
 shingle	sh-I-ng-g-4-l
 shingles	sh-I-ng-g-4-l-z
@@ -1523,6 +1533,7 @@ synogogue	s-I-n-4-g-c-g
 syracuse	s-I-r-4-k-j-u-z
 syrup	s-3^-^-p
 t	t-i
+t's	t-i-z
 tabby	t-ae-b-i
 tabernacle	t-ae-b-4^-n-ae-k-4-l
 tabernakle	t-ae-b-4^-n-ae-k-4-l
@@ -1588,8 +1599,8 @@ theo	th-i-oU
 therapy	th-E-r-^-p-i
 there're	dh-E-r-3^
 theresa	t-3^-i-s-^
-theyll	dh-eI-l
 they'll	dh-eI-l
+theyll	dh-eI-l
 thief	th-i-f
 thigh	th-@I
 thirty	th-3^-t-i
@@ -1663,7 +1674,6 @@ troubled	t-r-^-b-4-l-d
 troubles	t-r-^-b-4-l-z
 truce	t-r-u-s
 trying	t-r-@I-I-n-g
-t's	t-i-z
 tsar	z-@-r
 tsheek	tsh-i-k
 tuffy	t-^-f-i
@@ -1747,9 +1757,10 @@ warren	w-c-r-4-n
 washing	w-@-sh-I-ng
 wat	w-@-t
 watching	w-@-tsh-I-ng
+we'd	w-i-d
+we're	w-I-r
 weanie	w-i-n-i
 wed	w-E-d
-we'd	w-i-d
 wedges	w-E-dzh-^-z
 wedgie	w-E-dzh-i
 weenie	w-i-n-i
@@ -1757,7 +1768,6 @@ weep	w-i-p
 weeped	w-i-p-t
 weeps	w-i-p-s
 were	w-3^
-we're	w-I-r
 what'd	w-^-t-I-d
 whew	w-j-u
 whine	w-@I-n
@@ -1806,8 +1816,8 @@ yacht	j-@-t
 yam	j-ae-m
 yearn	j-3^-n
 yolk	j-oU-k
-your	j-c-r
 you're	j-c-r
+your	j-c-r
 yourselves	j-3^-s-E-l-v-z
 yucky	j-^-k-i
 yukie	j-u-k-i
