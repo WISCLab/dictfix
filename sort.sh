@@ -2,6 +2,9 @@
 
 # created with help of ChatGPT
 
+# for reproducible sorting of punctuations
+export LC_ALL=C
+
 input_file="DictFix.txt"
 conflict_found=false
 
@@ -17,7 +20,7 @@ awk -F'\t' '
     next
   }
   if ($1 !~ /^[A-Za-z'\''\-]+$/) {
-    printf("Format error (line %d): first field must be letters, hypens or apostrophes only\n  >> %s\n\n", NR, $0) > "/dev/stderr"
+    printf("Format error (line %d): first field must be letters, hyphens or apostrophes only\n  >> %s\n\n", NR, $0) > "/dev/stderr"
     bad_fmt = 1
   }
   if ($2 !~ /^[A-Za-z0-9@^-]+$/) {
@@ -57,7 +60,5 @@ if [[ $? -eq 1 ]]; then
     read -p "Press Enter to continue..."
     exit 1
 fi
-
-
 
 sort --unique "$input_file" --output="$input_file"
