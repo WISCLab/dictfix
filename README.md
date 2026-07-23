@@ -39,7 +39,13 @@ The directory `mfa` includes an additional set of pronunciation fixes for the
 dictionary provided by the Montreal Forced Aligner. It has its own README.md 
 file.
 
-The script `util-delete-empty-rating-files.sh` is a helper for dealing with
+Scripts:
+
+`util-unzip-files.sh` will unzip all .zip files in a directory. Control files 
+from the lab's database come in .zip files so this script automates the task of 
+unzipping all of the files in a folder.
+
+`util-delete-empty-rating-files.sh` is a helper for dealing with
 listening experiment data downloaded from our lab's database. It deletes a 
 listener rating files when they contain 0 rows. (They should not contain 
 0 rows --- so it's a sign that data is missing somewhere.) It's useful to have
