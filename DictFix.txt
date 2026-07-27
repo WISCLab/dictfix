@@ -526,6 +526,7 @@ dimple	d-I-m-p-4-l
 dimpled	d-I-m-p-4-l-d
 dimples	d-I-m-p-4-l-z
 dinghy	d-I-ng-g-i
+dino	d-@I-n-oU
 dirty	d-3^-t-i
 disaster	d-I-z-ae-s-t-3^
 disney	d-I-z-n-i
@@ -1294,8 +1295,9 @@ pretending	p-r-i-t-E-n-d-I-ng
 pretty	p-r-I-t-i
 principal	p-r-I-n-s-4-p-4-l
 probably	p-r-@-b-l-i
-procedures	p-r-^-s-i-dzh-3^-z
-produce	p-r-^-d-u-s
+procedures	p-r-4-s-i-dzh-3^-z
+proceed	p-r-4-s-i-d
+produce	p-r-4-d-u-s
 prowl	p-r-@U-l
 puddle	p-^-d-4-l
 puddled	p-^-d-4-l-d
