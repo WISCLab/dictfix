@@ -244,7 +244,9 @@ binny	b-I-n-i
 birdie	b-3^-d-i
 birdies	b-3^-d-i-z
 bitch	b-I-tsh
+bitten	b-I-t-4-n
 bizarre	b-I-z-@-r
+bleeding	b-l-i-d-I-ng
 bli	b-l-i
 blondie	b-l-@-n-d-i
 bloody	b-l-^-d-i
@@ -359,6 +361,7 @@ butthead	b-^-t-dh-E-d
 buttock	b-^-t-4-k
 buttocks	b-^-t-4-k-s
 c	s-i
+cabaret	k-ae-b-4^-eI
 caber	k-eI-b-4^
 cable	k-eI-b-4-l
 cabled	k-eI-b-4-l-d
@@ -389,6 +392,7 @@ carly	k-@-r-l-i
 carnivore	k-@-r-n-I-v-c-r
 carry	k-E-r-i
 carrying	k-ae-r-i-I-ng
+carton	k-@-r-t-4-n
 carvy	k-@-r-v-i
 cashews	k-ae-sh-u-z
 castle	k-ae-s-4-l
@@ -418,6 +422,7 @@ chewy	tsh-u-i
 chi	tsh-i
 chic	sh-i-k
 chili	tsh-I-l-i
+chiropractic	k-@I-r-oU-p-r-ae-k-t-I-k
 chirp	tsh-3^-p
 cho	tsh-oU
 chooses	tsh-u-z-I-z
@@ -449,6 +454,7 @@ coffee	k-c-f-i
 collects	k-4-l-E-k-t-s
 collie	k-@-l-i
 colour	k-^-l-3^
+column	k-@-l-4-m
 comfortable	k-^-m-f-t-4-r-b-4-l
 comforter	k-^-m-f-3^-t-3^
 comfy	k-^-m-f-i
@@ -507,6 +513,7 @@ cues	k-j-u-z
 cure	k-j-U-r
 cured	k-j-U-r-d
 curry	k-3^-i
+curtain	k-3^-t-4-n
 curtsy	k-4^-t-s-i
 cutting	k-^-t-I-ng
 cycle	s-@I-k-4-l
@@ -560,6 +567,7 @@ dimpled	d-I-m-p-4-l-d
 dimples	d-I-m-p-4-l-z
 dinghy	d-I-ng-g-i
 dino	d-@I-n-oU
+dire	d-@I-3^
 dirty	d-3^-t-i
 disaster	d-I-z-ae-s-t-3^
 disney	d-I-z-n-i
@@ -593,6 +601,7 @@ downward	d-@U-n-w-3^-d
 dr	d-@-k-t-4^
 drained	d-r-eI-n-d
 drawings	d-r-c-I-ng-z
+drawl	d-r-c-l
 dread	d-r-E-d
 dreaming	d-r-i-m-I-ng
 dreamy	d-r-i-m-i
@@ -613,10 +622,12 @@ dumble	d-^-m-b-4-l
 during	d-U-r-I-ng
 dusty	d-^-s-t-i
 dwight	d-w-@I-t
+dyke	d-@I-k
 e	i
 eagle	i-g-4-l
 eagles	i-g-4-l-z
 early	3^-l-i
+earning	4^-n-I-ng
 easy	i-z-i
 eating	i-t-I-ng
 ebay	i-b-eI
@@ -635,9 +646,12 @@ emu	i-m-j-u
 enamel	I-n-ae-m-^-l
 encouragement	E-n-k-3^-I-dzh-m-^-n-t
 endurance	E-n-d-3^-^-n-s
+engage	E-ng-g-eI-dzh
+engaging	E-ng-g-eI-dzh-I-ng
 enjoys	E-n-dzh-cI-z
 entire	I-n-t-@I-3^
 eon	i-^-n
+essential	E-s-E-n-sh-4-l
 et	E-t
 every	E-v-r-i
 everybody	E-v-r-i-b-^-d-i
@@ -707,6 +721,7 @@ firework	f-@I-3^-w-3^-k
 fishie	f-I-sh-i
 fissure	f-I-sh-3^
 fitted	f-I-t-^-d
+fitting	f-I-t-I-ng
 fizzle	f-I-z-4-l
 fizzled	f-I-z-4-l-d
 fizzles	f-I-z-4-l-z
@@ -747,6 +762,7 @@ function	f-^-ng-k-sh-^-n
 fungus	f-^-ng-g-^-s
 funny	f-^-n-i
 furry	f-3^-i
+fuze	f-j-u-z
 fuzzy	f-^-z-i
 g	dzh-i
 gabriel	g-eI-b-r-i-4-l
@@ -762,6 +778,7 @@ gawk	g-c-k
 gaze	g-eI-z
 gelfry	g-E-l-f-r-i
 genie	dzh-i-n-i
+gentle	dzh-E-n-t-4-l
 gently	dzh-E-n-t-l-i
 gerber	g-4^-b-4^
 gerbil	dzh-3^-b-4-l
@@ -772,6 +789,7 @@ ghoul	g-u-l
 gibbons	g-I-b-I-n-z
 gig	g-I-g
 girth	g-3^-th
+given	g-I-v-4-n
 giver	g-I-v-3^
 giving	g-I-v-I-ng
 gizzard	g-I-z-3^-d
@@ -914,6 +932,7 @@ humbles	h-^-m-b-4-l-z
 humm	h-^-m
 hunger	h-^-ng-g-4^
 hunting	h-^-n-t-I-ng
+hurdle	h-4^-d-4-l
 hurgry	h-4^-g-r-i
 hurry	h-3^-i
 hurting	h-3^-t-I-ng
@@ -930,6 +949,7 @@ i'mma	@I-m-4
 iced	@I-s-t
 icky	I-k-i
 id	I-d
+identify	@I-d-E-n-t-4-f-@I
 ig	I-g
 ill	I-l
 ima	@I-m-4
@@ -939,6 +959,7 @@ impress	I-m-p-r-E-s
 impression	I-m-p-r-E-sh-4-n
 inches	I-n-tsh-I-z
 inglorious	I-n-g-l-c-r-i-^-s
+ingram	I-ng-g-r-ae-m
 initial	I-n-I-sh-4-l
 injures	I-n-dzh-4^-z
 inlaw	I-n-l-c
@@ -979,6 +1000,7 @@ journal	dzh-3^-n-4-l
 journaled	dzh-3^-n-4-l-d
 journals	dzh-3^-n-4-l-z
 journey	dzh-4^-n-i
+jowl	dzh-@U-l
 julia	dzh-u-l-i-4
 jumbo	dzh-^-m-b-oU
 jumping	dzh-^-m-p-I-ng
@@ -1000,6 +1022,7 @@ kettles	k-E-t-4-l-z
 khakis	k-ae-k-i-z
 kiddy	k-I-d-i
 kih	k-I
+kitten	k-I-t-4-n
 kylos	k-@I-l-oU-z
 l	E-l
 label	l-eI-b-4-l
@@ -1121,6 +1144,7 @@ minny	m-I-n-i
 mirror	m-I-r-3^
 misery	m-I-z-4^-i
 missy	m-I-s-i
+mitten	m-I-t-4-n
 mm	m
 mnm	E-m-E-n-E-m
 moby	m-oU-b-i
@@ -1187,6 +1211,7 @@ obeyed	oU-b-eI-d
 obviously	@-b-v-j-4-s-l-i
 occupied	@-k-j-^-p-@I-d
 occurring	^-k-3^-I-ng
+ocean	oU-sh-4-n
 only	oU-n-l-i
 opening	oU-p-^-n-I-ng
 orchid	c-r-k-^-d
@@ -1205,6 +1230,8 @@ owing	oU-I-ng
 owwie	@U-w-i
 oyster	cI-s-t-4^
 oysters	cI-s-t-4^-z
+p	p-i
+pace	p-eI-s
 paddy	p-ae-d-i
 pages	p-eI-dzh-I-z
 paisley	p-eI-z-l-i
@@ -1223,6 +1250,7 @@ pastes	p-eI-s-t-s
 pastry	p-eI-s-t-r-i
 pasty	p-eI-s-t-i
 paths	p-ae-dh-z
+pathway	p-ae-th-w-eI
 patience	p-eI-sh-^-n-s
 patterns	p-ae-t-3^-n-z
 patti	p-ae-t-i
@@ -1314,6 +1342,7 @@ popsicle	p-@-p-s-I-k-4-l
 popsicles	p-@-p-s-I-k-4-l-z
 porches	p-c-r-tsh-^-z
 pore	p-c-r
+porn	p-c-r-n
 porous	p-c-r-^-s
 porpoises	p-c-r-p-^-s-^-z
 porridge	p-c-r-^-dzh
@@ -1321,6 +1350,8 @@ porters	p-c-r-t-3^-z
 portion	p-c-r-sh-^-n
 portions	p-c-r-sh-^-n-z
 porus	p-c-r-^-s
+posse	p-@-s-i
+possess	p-4-z-E-s
 posture	p-@-s-tsh-3^
 potao	p-4-t-eI-t-oU
 potato	p-4-t-eI-t-oU
@@ -1331,11 +1362,14 @@ pottao	p-4-t-eI-t-oU
 pottie	p-@-t-i
 pour	p-c-r
 prairie	p-r-E-r-i
+praise	p-r-eI-z
 presenting	p-r-I-z-E-n-t-I-ng
 presenty	p-r-E-s-E-n-t-i
 pretending	p-r-i-t-E-n-d-I-ng
 pretty	p-r-I-t-i
+preview	p-r-i-v-j-u
 principal	p-r-I-n-s-4-p-4-l
+prison	p-r-I-z-4-n
 probably	p-r-@-b-l-i
 procedures	p-r-4-s-i-dzh-3^-z
 proceed	p-r-4-s-i-d
@@ -1406,6 +1440,7 @@ responsibility	r-I-s-p-@-n-s-4-b-I-l-4-t-i
 results	r-I-z-^-l-t-s
 resume	r-I-z-u-m
 reverend	r-E-v-3^-^-n-d
+rhythm	r-I-dh-4-m
 rib	r-I-b
 riddle	r-I-d-4-l
 riddled	r-I-d-4-l-d
@@ -1444,9 +1479,12 @@ sappy	s-ae-p-i
 savior	s-eI-v-j-3^
 savvy	s-ae-v-i
 scared	s-k-E-r-d
+scarf	s-k-@-r-f
 scary	s-k-E-r-i
+season	s-i-z-4-n
 secrets	s-i-k-r-I-t-s
 secure	s-I-k-j-U-r
+security	s-I-k-j-U-r-I-t-i
 seedy	s-i-d-i
 selling	s-E-l-I-ng
 seriously	s-I-r-i-4-s-l-i
@@ -1464,6 +1502,7 @@ shaw	sh-c
 she'd	sh-i-d
 she'll	sh-i-l
 shed	sh-E-d
+shedding	sh-E-d-4-ng
 sheddy	sh-E-d-i
 shell	sh-E-l
 shewed	sh-u-d
@@ -1483,6 +1522,7 @@ sickled	s-I-k-4-l-d
 sickles	s-I-k-4-l-z
 sickly	s-I-k-l-i
 sigh	s-@I
+sighed	s-@I-d
 signify	s-I-g-n-I-f-@I
 silly	s-I-l-i
 simplify	s-I-m-p-l-I-f-@I
@@ -1545,6 +1585,7 @@ stickle	s-t-I-k-4-l
 sticky	s-t-I-k-i
 stirring	s-t-3^-I-ng
 stitch	s-t-I-tsh
+stolen	s-t-oU-l-4-n
 stork	s-t-c-r-k
 story	s-t-c-r-i
 strawberry	s-t-r-c-b-E-r-i
@@ -1667,6 +1708,7 @@ tidal	t-@I-d-4-l
 tidy	t-@I-d-i
 tieing	t-@I-I-ng
 tier	t-I-r
+tighten	t-@I-t-4-n
 tightly	t-@I-t-l-i
 tiki	t-i-k-i
 timed	t-@I-m-d
@@ -1699,6 +1741,7 @@ tortoise	t-c-r-t-^-s
 tot	t-@-t
 totally	t-oU-t-4-l-i
 tots	t-@-t-s
+touching	t-^-tsh-I-ng
 toughie	t-^-f-i
 toung	t-^-ng
 tounge	t-^-ng
@@ -1860,6 +1903,7 @@ wrinkle	r-I-ng-k-4-l
 wrinkled	r-I-ng-k-4-l-d
 wrinkles	r-I-ng-k-4-l-z
 writh	r-I-th
+written	r-I-t-4-n
 wrotes	r-oU-t-s
 y	w-@I
 yacht	j-@-t
